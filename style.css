@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.head {
+    height: 100px;
+    width: 100%;
+    background-color: #C2D3CD;
+    text-align: center;
+    text-decoration: solid;
+    text-decoration: wavy;
+    font-weight: 500;
+    font-size: 60px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer {
+    height: 30px;
+    width: 100%;
+    background-color: #EAEAEA;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 800px;
+
+}
